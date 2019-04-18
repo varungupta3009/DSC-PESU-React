@@ -1,0 +1,35 @@
+body {
+    font-family: Google Sans;
+}
+
+.navbar {
+    transition: 0.3s;
+}
+
+.navbar.has-shadow {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+.loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ffffff;
+    z-index: 999999;
+}
+
+.pageloader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('../assets/Google Dots by VRG.gif') no-repeat center center;
+}
+
+footer a {
+    color: #212121;
+    text-decoration: none;
+}

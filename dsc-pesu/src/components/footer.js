@@ -24,7 +24,7 @@ class Footer extends React.Component {
                 width: "350px"
               }}
               src={require("../assets/DSC PESU.png")}
-              alt
+              alt="DSC PESU Logo"
             />
           </div>
         </div>

@@ -12,6 +12,7 @@ class Intro extends React.Component {
                   className="avatar is-vcentered"
                   src={require("../assets/DSC-Badge.svg")}
                   width={256}
+                  alt="DSC Badge"
                 />
                 <h1 className="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile">
                   Welcome to The Developer Student Clubs

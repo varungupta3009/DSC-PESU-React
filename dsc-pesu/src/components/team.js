@@ -53,7 +53,7 @@ class Team extends React.Component {
                     }}
                   >
                     <li className="item">
-                      <a href="www.google.com">
+                      <a href="www.google.com" target="_blank">
                         <img src={require("../assets/Facebook.svg")} />
                       </a>
                     </li>
@@ -130,12 +130,12 @@ class Team extends React.Component {
                   >
                     {}
                     <li className="item">
-                      <a href="https://github.com/mayankagarwal44442">
+                      <a href="https://github.com/mayankagarwal44442" target="_blank">
                         <img src={require("../assets/GitHub.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://www.linkedin.com/in/mayank-agarwal44442/">
+                      <a href="https://www.linkedin.com/in/mayank-agarwal44442/" target="_blank">
                         <img src={require("../assets/LinkedIn.svg")} />
                       </a>
                     </li>
@@ -196,22 +196,22 @@ class Team extends React.Component {
                     }}
                   >
                     <li className="item">
-                      <a href="https://www.facebook.com/sumanth.rao.9638">
+                      <a href="https://www.facebook.com/sumanth.rao.9638" target="_blank">
                         <img src={require("../assets/Facebook.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://www.instagram.com/sumanth_svr">
+                      <a href="https://www.instagram.com/sumanth_svr" target="_blank">
                         <img src={require("../assets/Instagram.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://github.com/sumanthvrao">
+                      <a href="https://github.com/sumanthvrao" target="_blank">
                         <img src={require("../assets/GitHub.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://www.linkedin.com/in/sumanthvrao">
+                      <a href="https://www.linkedin.com/in/sumanthvrao" target="_blank">
                         <img src={require("../assets/LinkedIn.svg")} />
                       </a>
                     </li>
@@ -235,22 +235,22 @@ class Team extends React.Component {
                     }}
                   >
                     <li className="item">
-                      <a href="mailto:varungupta3009@gmail.com?subject=Hi%20VRG!&body=Hello!">
+                      <a href="mailto:varungupta3009@gmail.com?subject=Hi%20VRG!&body=Hello!" target="_blank">
                         <img src={require("../assets/GMail.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://twitter.com/varungupta3009">
+                      <a href="https://twitter.com/varungupta3009" target="_blank">
                         <img src={require("../assets/Twitter.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://github.com/varungupta3009">
+                      <a href="https://github.com/varungupta3009" target="_blank">
                         <img src={require("../assets/GitHub.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://www.linkedin.com/in/varungupta3009/">
+                      <a href="https://www.linkedin.com/in/varungupta3009/" target="_blank">
                         <img src={require("../assets/LinkedIn.svg")} />
                       </a>
                     </li>
@@ -272,22 +272,22 @@ class Team extends React.Component {
                     }}
                   >
                     <li className="item">
-                      <a href="https://www.facebook.com/umashankar.sivakumar">
+                      <a href="https://www.facebook.com/umashankar.sivakumar" target="_blank">
                         <img src={require("../assets/Facebook.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://twitter.com/Umashankar1999">
+                      <a href="https://twitter.com/Umashankar1999" target="_blank">
                         <img src={require("../assets/Twitter.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://github.com/UmashankarTriforce">
+                      <a href="https://github.com/UmashankarTriforce" target="_blank">
                         <img src={require("../assets/GitHub.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://www.linkedin.com/in/umashankar-sivakumar-575aa4167">
+                      <a href="https://www.linkedin.com/in/umashankar-sivakumar-575aa4167" target="_blank">
                         <img src={require("../assets/LinkedIn.svg")} />
                       </a>
                     </li>
@@ -309,22 +309,22 @@ class Team extends React.Component {
                     }}
                   >
                     <li className="item">
-                      <a href="https://m.facebook.com/shaanzie.07">
+                      <a href="https://m.facebook.com/shaanzie.07" target="_blank">
                         <img src={require("../assets/Facebook.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="http://www.instagram.com/shaaanziee">
+                      <a href="http://www.instagram.com/shaaanziee" target="_blank">
                         <img src={require("../assets/Instagram.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://github.com/shaanzie">
+                      <a href="https://github.com/shaanzie" target="_blank">
                         <img src={require("../assets/GitHub.svg")} />
                       </a>
                     </li>
                     <li className="item">
-                      <a href="https://www.linkedin.com/in/ishaan-lagwankar-abb60417b">
+                      <a href="https://www.linkedin.com/in/ishaan-lagwankar-abb60417b" target="_blank">
                         <img src={require("../assets/LinkedIn.svg")} />
                       </a>
                     </li>

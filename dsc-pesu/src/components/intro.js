@@ -10,7 +10,7 @@ class Intro extends React.Component {
               <div className="column">
                 <img
                   className="avatar is-vcentered"
-                  src={require("../assets/DSC-Badge.svg")}
+                  src={require("../assets/DSC-Badge-by-VRG.svg")}
                   width={256}
                   alt="DSC Badge"
                 />
@@ -18,12 +18,13 @@ class Intro extends React.Component {
                   Welcome to The Developer Student Clubs
                 </h1>
                 <h2 className="subtitle is-size-2-desktop">PES University</h2>
+                <a href="https://bit.ly/dsc-pesu-projects" target="_blank">
                 <button
                   className="mdc-button mdc-button--outlined"
-                  onclick="location.href='http://bit.ly/dsc-ml';"
                 >
                   <span className="mdc-button__label">Register Now!</span>
                 </button>
+                </a>
               </div>
             </div>
           </div>

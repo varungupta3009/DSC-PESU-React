@@ -12,7 +12,7 @@ class Navbar extends React.Component {
           <div className="navbar-brand">
             <a className="navbar-item" href="/">
               <img
-                src={require("../assets/DSC PESU.png")}
+                src={require("../assets/DSC-H.png")}
                 alt="Developer Student Clubs"
                 height={48}
               />
@@ -32,16 +32,17 @@ class Navbar extends React.Component {
           <div id="navbarMenu" className="navbar-menu">
             <div className="navbar-start" />
             <div className="navbar-end has-text-centered">
-              <a className="navbar-item" href="https://pesuacademy.com/Academy">
+              <a className="navbar-item" href="https://pesuacademy.com/Academy" target="_blank">
                 PESU Academy
               </a>
               <div className="navbar-item">
-                <button
-                  className="mdc-button mdc-button--outlined"
-                  onclick="location.href='http://bit.ly/dsc-ml';"
-                >
-                  <span className="mdc-button__label">Register Now!</span>
-                </button>
+                <a href="https://bit.ly/dsc-pesu-projects" target="_blank">
+                  <button
+                    className="mdc-button mdc-button--outlined"
+                  >
+                    <span className="mdc-button__label">Register Now!</span>
+                  </button>
+                </a>
               </div>
             </div>
           </div>

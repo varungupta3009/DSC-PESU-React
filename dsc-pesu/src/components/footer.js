@@ -23,14 +23,14 @@ class Footer extends React.Component {
               style={{
                 width: "350px"
               }}
-              src={require("../assets/DSC PESU.png")}
+              src={require("../assets/DSC-V.png")}
               alt="DSC PESU Logo"
             />
           </div>
         </div>
         <div className="container">
           <h2 className="subtitle">
-            <FontAwesomeIcon icon="chevron-left" />  Coded  <FontAwesomeIcon icon="chevron-right" />  with a  <FontAwesomeIcon icon="desktop" />  by VRG.
+            <FontAwesomeIcon icon="chevron-left" /> Coded <FontAwesomeIcon icon="chevron-right" /> with a <FontAwesomeIcon icon="desktop" /> by VRG.
           </h2>
         </div>
         <div

@@ -46,12 +46,13 @@ class Projects extends React.Component {
                     <div className="content has-text-left">
                       Here is our Lord Commander, giving his introductory speech
                       before the workshop.
-                      <a>@DSCPESU</a>.
+                      <br />
+                      <a href="https://www.instagram.com/dscpesu/" target="_blank">@DSCPESU</a>
                       <br />
                     </div>
                   </div>
                   <footer className="card-footer">
-                    <a href="#" className="card-footer-item">
+                    <a href="https://www.instagram.com/p/BvjuXVYDLdI/" target="_blank" className="card-footer-item">
                       Learn More...
                     </a>
                   </footer>

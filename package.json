@@ -2,12 +2,14 @@
   "name": "dsc-pesu",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://varungupta3009.github.io/DSC-PESU-React",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
     "@fortawesome/free-brands-svg-icons": "^5.8.1",
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "bulma": "^0.7.4",
+    "gh-pages": "^2.0.1",
     "jquery": "^3.4.0",
     "node-sass": "^4.11.0",
     "react": "^16.8.6",
@@ -16,6 +18,8 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

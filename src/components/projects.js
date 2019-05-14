@@ -47,12 +47,12 @@ class Projects extends React.Component {
                       Here is our Lord Commander, giving his introductory speech
                       before the workshop.
                       <br />
-                      <a href="https://www.instagram.com/dscpesu/" target="_blank">@DSCPESU</a>
+                      <a href="https://www.instagram.com/dscpesu/" target="_blank" rel="noopener noreferrer">@DSCPESU</a>
                       <br />
                     </div>
                   </div>
                   <footer className="card-footer">
-                    <a href="https://www.instagram.com/p/BvjuXVYDLdI/" target="_blank" className="card-footer-item">
+                    <a href="https://www.instagram.com/p/BvjuXVYDLdI/" target="_blank" rel="noopener noreferrer" className="card-footer-item">
                       Learn More...
                     </a>
                   </footer>

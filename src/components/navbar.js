@@ -32,11 +32,11 @@ class Navbar extends React.Component {
           <div id="navbarMenu" className="navbar-menu">
             <div className="navbar-start" />
             <div className="navbar-end has-text-centered">
-              <a className="navbar-item" href="https://pesuacademy.com/Academy" target="_blank">
+              <a className="navbar-item" href="https://pesuacademy.com/Academy" target="_blank" rel="noopener noreferrer">
                 PESU Academy
               </a>
               <div className="navbar-item">
-                <a href="https://bit.ly/dsc-pesu-projects" target="_blank">
+                <a href="https://bit.ly/dsc-pesu-projects" target="_blank" rel="noopener noreferrer">
                   <button
                     className="mdc-button mdc-button--outlined"
                   >

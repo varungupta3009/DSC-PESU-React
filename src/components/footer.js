@@ -39,27 +39,27 @@ class Footer extends React.Component {
           }}
         >
           <div className="social-links">
-            <a href="#">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <span className="icon is-large">
                 <FontAwesomeIcon icon={['fab', 'facebook']} size="lg" />
               </span>
             </a>
-            <a href="#">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <span className="icon is-large">
                 <FontAwesomeIcon icon={['fab', 'twitter']} size="lg" />
               </span>
             </a>
-            <a href="#">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <span className="icon is-large">
                 <FontAwesomeIcon icon={['fab', 'linkedin']} size="lg" />
               </span>
             </a>
-            <a href="#">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <span className="icon is-large">
                 <FontAwesomeIcon icon={['fab', 'dribbble']} size="lg" />
               </span>
             </a>
-            <a href="#">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <span className="icon is-large">
                 <FontAwesomeIcon icon={['fab', 'github']} size="lg" />
               </span>
